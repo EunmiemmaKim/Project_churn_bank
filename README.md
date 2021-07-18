@@ -8,7 +8,7 @@ Nowadays, there are many competitors coming out on market. It becomes important 
 
 <center>
 ![다운로드](https://user-images.githubusercontent.com/53354807/126055479-55963311-f54f-4175-9ed7-d0b6ff72129f.png)
-</center> 
+</center> <br>
 
 I will create awareness about credit score, balance, tenure, possession of credit card, gender, and other factors leading to churn. I can suggest the company to focus on marketing, advertising, providing some options, and others to the customers who will churn in the future, which in turn will prevent the company loss of profit.
 
