@@ -7,7 +7,7 @@
 Nowadays, there are many competitors coming out on market. It becomes important to hold customers. There must be many reasons to make customers leave the bank company. In this paper, I analyze what kind of customers are more likely to churn or not. For this analysis, I used a large database maintained by the bank company. This database contained relevant information of churn rate for bank customers at a specific time. I used a number of multivariate statistical techniques for our analysis.
 
 
-![다운로드](./다운로드.png){}
+![다운로드](./다운로드.png){: width="700px",hight="300px" }  
 
 
 I will create awareness about credit score, balance, tenure, possession of credit card, gender, and other factors leading to churn. I can suggest the company to focus on marketing, advertising, providing some options, and others to the customers who will churn in the future, which in turn will prevent the company loss of profit.
